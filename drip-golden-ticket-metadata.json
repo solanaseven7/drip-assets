@@ -1,0 +1,19 @@
+{
+  "name": "Drip Golden Ticket — Test #1",
+  "symbol": "DGT",
+  "description": "A Drip Golden Ticket — redeemable for one Drip Golden Pack.",
+  "image": "REPLACE_WITH_RAW_GIF_URL",
+  "animation_url": "REPLACE_WITH_RAW_GIF_URL",
+  "external_url": "https://dripshop.live",
+  "attributes": [
+    { "trait_type": "Type", "value": "Golden Ticket" },
+    { "trait_type": "Redeemable For", "value": "1 Golden Pack" },
+    { "trait_type": "Serial", "value": "0001" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": https://github.com/solanaseven7/drip-assets/blob/cde16c99e5ca5ffb4c270394039dafe4ab678cda/drip-golden-ticket-3d-v2.gif }
+    ],
+    "category": "image"
+  }
+}
