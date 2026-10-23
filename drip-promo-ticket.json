@@ -1,0 +1,39 @@
+{
+  "name": "Drip Shop Free Pack",
+  "symbol": "DRIP",
+  "description": "Claim your FREE Gengars Gone Wild Slab Pack at dripshop.live. Use promo code DRIPCREW at checkout for 100% off.",
+  "image": "https://cdn.jsdelivr.net/gh/solanaseven7/drip-assets@main/upload-to-drip-assets/drip-promo-ticket.gif",
+  "animation_url": "https://cdn.jsdelivr.net/gh/solanaseven7/drip-assets@main/upload-to-drip-assets/drip-promo-ticket.mp4",
+  "external_url": "https://dripshop.live",
+  "attributes": [
+    {
+      "trait_type": "Promo Code",
+      "value": "DRIPCREW"
+    },
+    {
+      "trait_type": "Reward",
+      "value": "Free Gengars Gone Wild Slab Pack"
+    },
+    {
+      "trait_type": "Discount",
+      "value": "100%"
+    },
+    {
+      "trait_type": "Redeem At",
+      "value": "dripshop.live"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/solanaseven7/drip-assets@main/upload-to-drip-assets/drip-promo-ticket.gif",
+        "type": "image/gif"
+      },
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/solanaseven7/drip-assets@main/upload-to-drip-assets/drip-promo-ticket.mp4",
+        "type": "video/mp4"
+      }
+    ],
+    "category": "image"
+  }
+}
