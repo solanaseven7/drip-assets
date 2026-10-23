@@ -1,0 +1,27 @@
+{
+  "name": "Drip Shop Free Pack",
+  "symbol": "DRIP",
+  "description": "",
+  "image": "https://cdn.jsdelivr.net/gh/solanaseven7/drip-assets@main/drip-promo-ticket.gif",
+  "animation_url": "https://cdn.jsdelivr.net/gh/solanaseven7/drip-assets@main/drip-promo-ticket.gif",
+  "external_url": "https://dripshop.live",
+  "attributes": [
+    {
+      "trait_type": "Promo Code",
+      "value": "DRIPCREW"
+    },
+    {
+      "trait_type": "Pack",
+      "value": "Gengars Gone Wild Slab Pack"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/solanaseven7/drip-assets@main/drip-promo-ticket.gif",
+        "type": "image/gif"
+      }
+    ],
+    "category": "image"
+  }
+}
